@@ -1,0 +1,46 @@
+body {
+  background-color: #c6d9ec;
+  text-align: center;
+}
+
+h1 {
+  color: #ff99ff;
+}
+
+div {
+  border: dotted 1px #cc00cc;
+  text-align: center;
+  font-size: 20px;
+  height: 80px;
+  width: 80px;
+  display: table-cell;
+  padding: 0;
+}
+
+#bomb-it {
+  margin-left: 37%;
+}
+
+button {
+  background-color: #cc00cc;
+  border-radius: 30%;
+  color:#FFF;
+  font-size: 20px;
+  margin-top: 10%
+  padding: 1px;
+  border: none;
+}
+
+img {
+  width: 350px;
+  margin: 2% 35%;
+}
+
+.number {
+  margin: 0;
+  color: #c6d9ec;
+}
+
+.numberShow {
+  color: #751aff;
+}
